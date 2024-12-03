@@ -1,5 +1,7 @@
 # Catálogo de Produtos
 
+⚠️ **Atenção:** Subi o ENV desse projeto aqui no repositório, sei que isso não é uma boa prática mas para que consigam executar o projeto de uma forma mais fácil, subi o meu ENV para que possam somente executar o projeto sem a necessidade de pegar as váriaveis de ambiente!
+
 Este é um projeto de aplicativo de catálogo de produtos desenvolvido como parte de um desafio técnico. O aplicativo consome dados da API [DummyJSON](https://dummyjson.com/) para listar, filtrar, ordenar e exibir detalhes de produtos.
 
 ## **Funcionalidades**
